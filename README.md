@@ -1,4 +1,4 @@
-Linear Optimization
+Linear Optimization by Matlab (2022 Fall)
 
 Solve Farming Stochastic Programming Model Problem by using:
 
