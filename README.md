@@ -1,4 +1,4 @@
-# MIE1620_Linear_Optimization
+Linear Optimization
 
 Solve Farming Stochastic Programming Model Problem by using:
 
@@ -8,4 +8,6 @@ Solve Farming Stochastic Programming Model Problem by using:
 
 (3) The Linprog Method (the Matlab package).
 
-The code generates the coefficients for the stochastic programming farming model
+And then also three methods are compared.
+
+The 'coefficient_generator' code generates the coefficients for the stochastic programming farming model automatically. 
