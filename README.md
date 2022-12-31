@@ -6,4 +6,6 @@ Solve Farming Stochastic Programming Model Problem by using:
 
 (2) The Dantzig-Wolfe decomposition Method;
 
-(3) The Linprog Method (the Matlab package)
+(3) The Linprog Method (the Matlab package).
+
+The code generates the coefficients for the stochastic programming farming model
